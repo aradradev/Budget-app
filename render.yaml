@@ -1,5 +1,5 @@
 databases:
-  - name: Budget-app
+  - name: budget-app
     databaseName: budget_db_mv8u
     user: budget_users
 
